@@ -66,9 +66,9 @@
     <Compile Include="Assets\Scripts\MusicManager.cs" />
     <Compile Include="Assets\Scripts\MyNetworkManager.cs" />
     <Compile Include="Assets\Scripts\OptionsController.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
-    <Compile Include="Assets\Scripts\PlayerScript.cs" />
+    <Compile Include="Assets\Scripts\SetupLocalPlayer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/matth/Documents/8 Bit Brawlers/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
